@@ -7,7 +7,7 @@ This is a revised developer portfolio made to help bring all the components toge
 The project is currently still being worked on and will remain a work in progress as my projects and skills continue to increase. 
 
 ## WIP Demo
-![Revised Portfolio](assets/RevisedPortfolio.gif)
+![Revised Portfolio](RevisedPortfolio.gif)
 
 No licenses. Creative purposes only. @Efrenmarin45 on GitHub.
 
